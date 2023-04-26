@@ -30,6 +30,9 @@ Press → [![Press Me](https://replit.com/badge/github/JavonDee/MathHelp24)](htt
     <a href="https://github.com/JavonDee/MathHelp24"><img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno JS"></img></a>
     <a href="https://github.com/JavonDee/MathHelp24"><img src="https://img.shields.io/badge/terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal"></img></a>
     <a href="https://github.com/JavonDee/MathHelp24"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></img></a>
+    
+    
+    
   
 
 ![Screenshot 2023-04-20 10 25 50 AM](https://user-images.githubusercontent.com/97114788/233401039-0400a98c-8b59-4578-8ade-3b2d86584a91.png)
