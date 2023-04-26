@@ -13,10 +13,8 @@ Check It Out On `Replit` https://replit.com/@JavonDee/UBLABS?v=1
 
 Press → [![Press Me](https://replit.com/badge/github/JavonDee/MathHelp24)](https://replit.com/new/github/JavonDee/MathHelp24) ← Press
 
-Deploy NOW
-
 <div align="center">
-    <h2>Get Started</h2>
+    <h2>DEPLOY NOW</h2>
     <a>To get started, press one of the buttons below to deploy Incognito</a>
     <br>
     <br>
